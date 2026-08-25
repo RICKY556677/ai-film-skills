@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI电影打斗提示词"
+  short_description: "编写动作清晰、连续可信并可直接生成的AI电影打斗场面提示词"
+  default_prompt: "使用 $write-fight-scene-prompts 为我的AI电影场景编写一段可执行的打斗提示词。"

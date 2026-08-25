@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI电影镜头设计师"
+  short_description: "将叙事意图转化为可执行的电影机位、构图与运镜提示词"
+  default_prompt: "使用 $ai-cinematic-shot-designer 为这个场景设计一组具有明确叙事目的、机位关系和运镜节拍的 AI 电影镜头提示词。"

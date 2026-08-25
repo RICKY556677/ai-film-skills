@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 视频光影提示词"
+  short_description: "为AI视频设计真实、连续且可执行的电影级光影提示词"
+  default_prompt: "使用 $write-ai-video-lighting-prompts 为这个 AI 视频场景设计物理合理且镜头连续的光影提示词。"
